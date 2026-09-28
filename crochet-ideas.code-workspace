@@ -1,0 +1,7 @@
+{
+  "folders": [{ "path": "." }],
+  "settings": {
+    "files.exclude": { "**/*.sqlite": true, "**/*.sqlite-wal": true, "**/*.sqlite-shm": true },
+    "search.exclude": { ".data/**": true, "public/uploads/**": true }
+  }
+}
