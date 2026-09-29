@@ -2,6 +2,8 @@
 
 A custom English-language crochet catalog and journal, with a separate private admin studio. Prices are in USD. Purchases happen on Etsy.
 
+**Namecheap deployment from GitHub:** follow [NAMECHEAP.md](NAMECHEAP.md) for this project's cPanel settings, source updates, and first admin login.
+
 ## Run in VS Code
 
 1. Open this `crochet-ideas` folder in VS Code.

@@ -2,3 +2,5 @@
 .env
 public/uploads/
 node_modules/
+tmp/
+*.log
